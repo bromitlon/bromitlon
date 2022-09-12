@@ -88,7 +88,7 @@ Check out my repos ⬇️
      <br>
   </div>    
 </details>
-
+ 
 <details>
   <summary>📈 Latest Acti-Graph</summary>
   <br/>
